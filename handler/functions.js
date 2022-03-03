@@ -1,25 +1,5 @@
 const Enmap = require('enmap');
 const { MessageEmbed } = require('discord.js');
-// const mongoose = require('mongoose');
-
-// mongoose.connect('mongodb+srv://bot:Fmrqs1NHFB7oQHII@cluster0.keono.mongodb.net/data?retryWrites=true&w=majority', {
-//   useNewUrlParser: true,
-//   useUnifiedTopology: true,
-//   useFindAndModify: false,
-//   useCreateIndex: true,
-// });
-
-// const db = mongoose.connection;
-
-// db.once('open', function() {
-//   console.log('Connected to MongoDB');
-// });
-
-// db.on('error', function(err) {
-//   console.log(err);
-// });
-
-// const users = require("../models/users");
 
 module.exports = {
     embed: function(msg, color, description) {
