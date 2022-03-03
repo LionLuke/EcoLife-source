@@ -1,8 +1,8 @@
 {
-  "token": "",
+  "token": "BOT TOKEN HERE",
   "port": "",
   "prefix": ")",
-  "developer": ["474945594977157120", "290216832013565973", "141521475478880256"],
+  "developer": ["DEV USER ID HERE"],
   "dbltoken": "",
   "apitoken": "",
   "voidapitoken": ""
